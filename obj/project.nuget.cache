@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8SvNNzDDiaqarSejnBMAw9xQgrAxJ2F7wI89NUyVHqHqEoZ4y3I+9ao3aw/oRbxN+wNStvfxzfKfuJabAZL3pQ==",
+  "dgSpecHash": "swSGZhJMEsXbPbHwPM32eoS2NsaXe9zszQ0plIm9gxLizPBsBLyqwnECfnbk7celcK7oocAX9hEu9N5KFwmtsA==",
   "success": true,
   "projectFilePath": "/home/dev/Área de trabalho/Projects/ScheduleMVC/ScheduleMVC.csproj",
   "expectedPackageFiles": [
-    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
