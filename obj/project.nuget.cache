@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SvNNzDDiaqarSejnBMAw9xQgrAxJ2F7wI89NUyVHqHqEoZ4y3I+9ao3aw/oRbxN+wNStvfxzfKfuJabAZL3pQ==",
+  "success": true,
+  "projectFilePath": "/home/dev/Área de trabalho/Projects/ScheduleMVC/ScheduleMVC.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
